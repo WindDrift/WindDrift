@@ -2,8 +2,7 @@
 
 # 你好 👋
 
-<img src="./assets/meme/wanderer/hello.webp" alt="流浪者-打招呼" width="85" >
-<img src="./assets/meme/kazuha/hello.webp" alt="枫原万叶-嗨" width="85" >
+<img src="./assets/meme/wanderer/hello.webp" alt="流浪者-打招呼" width="85" > <img src="./assets/meme/kazuha/hello.webp" alt="枫原万叶-嗨" width="85" >
 
 这里是浮笙，一名大二在读学生。
 <!--

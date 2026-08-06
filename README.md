@@ -1,5 +1,11 @@
-## Hi there 👋
+![头图](./assets/headPic.webp "头图")
 
+# 你好 👋
+
+<img src="./assets/meme/wanderer/hello.webp" alt="流浪者-打招呼" width="85" >
+<img src="./assets/meme/kazuha/hello.webp" alt="枫原万叶-嗨" width="85" >
+
+这里是浮笙，一名大二在读学生。
 <!--
 **WindDrift/WindDrift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

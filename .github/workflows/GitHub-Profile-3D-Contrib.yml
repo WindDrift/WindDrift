@@ -1,2 +1,23 @@
-- name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+# 修改此处即可自定义工作流名称（解决你截图内的展示名称）
+name: 3D贡献立体图生成
+
+# 触发规则：每日定时自动运行 + 支持手动启动
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: 生成3D贡献图像
+    steps:
+      # 检出你的仓库代码
+      - uses: actions/checkout@v4
+      - name: GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          # 内置权限令牌，必须配置
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 自动读取你的Github用户名
+          USERNAME: ${{ github.repository_owner }}

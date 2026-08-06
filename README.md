@@ -31,4 +31,4 @@
 - [MediaIsland](https://github.com/bywhite0/MediaIsland) — 用于显示 Windows SMTC 媒体信息的 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 插件
 ![GitHub Repo stars](https://img.shields.io/github/stars/bywhite0/MediaIsland) ![GitHub top language](https://img.shields.io/github/languages/top/bywhite0/MediaIsland)
 
-![3D 贡献图](profile-3d-contrib\profile-night-green.svg "3D 贡献图")
+![3D 贡献图](./profile-3d-contrib/profile-night-green.svg "3D 贡献图")

@@ -6,6 +6,8 @@
 
 这里是浮笙，一名大二在读学生，喜欢写点奇奇怪怪的小东西。
 
+<a href="https://ghfind.com/u/winddrift?ref=badge"><img src="https://ghfind.com/api/card/winddrift?theme=dark&variant=path" alt="GitHub Roast" width="600" /></a>
+
 ## 项目
 
 ### 我创建的

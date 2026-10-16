@@ -20,14 +20,18 @@
 
 - [Starward](https://github.com/Scighost/Starward) — 米家游戏启动器
 ![GitHub Repo stars](https://img.shields.io/github/stars/Scighost/Starward) ![GitHub top language](https://img.shields.io/github/languages/top/Scighost/Starward)
+- [MaaEnd](https://github.com/MaaEnd/MaaEnd) — 基于视觉 AI 的「明日方舟：终末地」自动化工具
+![GitHub Repo stars](https://img.shields.io/github/stars/MaaEnd/MaaEnd) ![GitHub top language](https://img.shields.io/github/languages/top/MaaEnd/MaaEnd)
 - [ClassIsland](https://github.com/ClassIsland/ClassIsland) — 适用于班级多媒体屏幕的课表信息显示工具
 ![GitHub Repo stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland) ![GitHub top language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)
 - [amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) — 供给 [Apple Music-like Lyrics](https://github.com/amll-dev/applemusic-like-lyrics) 的 TTML 逐词歌词库
 ![GitHub Repo stars](https://img.shields.io/github/stars/amll-dev/amll-ttml-db) ![GitHub top language](https://img.shields.io/github/languages/top/amll-dev/amll-ttml-db)
+- [HyperLyric](https://github.com/limczhh/HyperLyric) — 为小米 HyperOS 3 带来超级岛歌词的 Xposed 模块
+![GitHub Repo stars](https://img.shields.io/github/stars/limczhh/HyperLyric) ![GitHub top language](https://img.shields.io/github/languages/top/limczhh/HyperLyric)
 - [MXU](https://github.com/MistEO/MXU) — [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework) Next UI
 ![GitHub Repo stars](https://img.shields.io/github/stars/MistEO/MXU) ![GitHub top language](https://img.shields.io/github/languages/top/MistEO/MXU)
-- [shiguang_warehouse](https://github.com/XingHeYuZhuan/shiguang_warehouse) — [拾光课程表](https://github.com/XingHeYuZhuan/shiguangschedule) 适配脚本的管理和测试
-![GitHub Repo stars](https://img.shields.io/github/stars/XingHeYuZhuan/shiguang_warehouse) ![GitHub top language](https://img.shields.io/github/languages/top/XingHeYuZhuan/shiguang_warehouse)
+- [shiguang_warehouse](https://github.com/ShiGuangSchedule/shiguang_warehouse) — [拾光课程表](https://github.com/ShiGuangSchedule/shiguangschedule) 适配脚本的管理和测试
+![GitHub Repo stars](https://img.shields.io/github/stars/ShiGuangSchedule/shiguang_warehouse) ![GitHub top language](https://img.shields.io/github/languages/top/ShiGuangSchedule/shiguang_warehouse)
 - [MediaIsland](https://github.com/bywhite0/MediaIsland) — 用于显示 Windows SMTC 媒体信息的 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 插件
 ![GitHub Repo stars](https://img.shields.io/github/stars/bywhite0/MediaIsland) ![GitHub top language](https://img.shields.io/github/languages/top/bywhite0/MediaIsland)
 
